@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BHANUREDDYCHADA
 - 👀 I’m interested in Cloud Computing,Machine Learning and Data Science.
 - 🌱 I’m actively looking for opportunities to contribute my skills towards the development of technologies that utilize data to enhance the quality of life.
-- 💞️ I’m looking to collaborate on real time projects involving Cloud Computing.
-- 📫 You cna reach me at bhanureddychada@icloud.com
+- 💞️ I’m looking to collaborate on real time projects involving Cloud Computing and Data Science.
+- 📫 You can reach me at bhanureddychada@icloud.com
 
 <!---
 BHANUREDDYCHADA/BHANUREDDYCHADA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
