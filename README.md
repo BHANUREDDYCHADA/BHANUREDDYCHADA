@@ -4,12 +4,12 @@
 - 💞️ I’m looking to collaborate on real time projects involving Front End and Back End Technologies.
 
 - My Skills and Interests
-- Languages:Java,Python,C,MySQL,HTML 5,Javascript.
-- Tools and Frameworks: GIT,JIRA,Jupyter,Tableau,AWS,Salesforce CRM.
+- Languages:Java | Python | C | MySQL | HTML 5 |Javascript | JSON.
+- Tools and Frameworks: GIT | JIRA | Jupyter | Tableau | AWS | Salesforce CRM | Trello.
 
 - Certifications & Training:
 - Cisco Cyber Ops Associate - Currently in the process of upskilling this summer semester.
-- Foundations of Project Management - Google -- Currently in the process of upskilling this summer semester.
+- Foundations of Project Management - Google - Currently in the process of upskilling this summer semester.
 - AWS Certified Solutions Associate
 - Cisco Certified Network Associate
 - Data Visualization using Tableau
