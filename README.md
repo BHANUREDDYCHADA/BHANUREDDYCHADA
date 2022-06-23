@@ -9,7 +9,7 @@
 
 - Certifications & Training:
 - Cisco Cyber Ops Associate - Currently in the process of upskilling this summer semester.
-- Foundations of Project Management - Google - Currently in the process of upskilling this summer semester.
+- Google Project Management: Professional Certificate - Currently in the process of upskilling this summer semester.
 - AWS Certified Solutions Associate
 - Cisco Certified Network Associate
 - Data Visualization using Tableau
