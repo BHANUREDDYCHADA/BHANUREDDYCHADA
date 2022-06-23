@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @BHANUREDDYCHADA
-- 👀 I’m a Masters student at California State University East Bay pursuing Computer Science and interested in Software Engineering and Technical Program Management Roles.
+- 👀 I’m a Masters student at California State University East Bay pursuing Computer Science and interested in Software Development Engineering and Technical Program Management Roles.
 - 🌱 I am a problem solver and actively looking for opportunities to contribute my skills towards the development of technologies that utilize data to enhance the quality of life.
 - 💞️ I’m looking to collaborate on real time projects involving Front End and Back End Technologies.
-- My Skills and Interests:
-- Languages:Java,Python,C,MySQL,HTML 5 / CSS,Excel(Advance)
+
+- My Skills and Interests
+- Languages:Java,Python,C,MySQL,HTML 5,Javascript.
 - Tools and Frameworks: GIT,JIRA,Jupyter,Tableau,AWS,Salesforce CRM.
+
 - Certifications & Training:
 - Cisco Cyber Ops Associate - Currently in the process of upskilling this summer semester.
 - Foundations of Project Management - Google -- Currently in the process of upskilling this summer semester.
@@ -13,6 +15,7 @@
 - Data Visualization using Tableau
 
 - 📫 You can reach me at bhanureddychada@icloud.com
+- Linkedin :- www.linkedin.com/in/bhanu-reddy-chada
 
 <!---
 BHANUREDDYCHADA/BHANUREDDYCHADA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
