@@ -1,7 +1,17 @@
 - 👋 Hi, I’m @BHANUREDDYCHADA
-- 👀 I’m interested in Cloud Computing and Data Science.
-- 🌱 I’m actively looking for opportunities to contribute my skills towards the development of technologies that utilize data to enhance the quality of life.
-- 💞️ I’m looking to collaborate on real time projects involving Cloud Computing and Data Science.
+- 👀 I’m a Masters student at California State University East Bay pursuing Computer Science and interested in Software Engineering and Technical Program Management Roles.
+- 🌱 I am a problem solver and actively looking for opportunities to contribute my skills towards the development of technologies that utilize data to enhance the quality of life.
+- 💞️ I’m looking to collaborate on real time projects involving Front End and Back End Technologies.
+- My Skills and Interests:
+- Languages:Java,Python,C,MySQL,HTML 5 / CSS,Excel(Advance)
+- Tools and Frameworks: GIT,JIRA,Jupyter,Tableau,AWS,Salesforce CRM.
+- Certifications & Training:
+- Cisco Cyber Ops Associate - Currently in the process of upskilling this summer semester.
+- Foundations of Project Management - Google -- Currently in the process of upskilling this summer semester.
+- AWS Certified Solutions Associate
+- Cisco Certified Network Associate
+- Data Visualization using Tableau
+
 - 📫 You can reach me at bhanureddychada@icloud.com
 
 <!---
