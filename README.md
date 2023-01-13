@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @BHANUREDDYCHADA
-- 👀 I’m a Masters student at California State University East Bay pursuing Computer Science and interested in Software Development Engineering - Data and Technical Program Management Roles.
+- 👀 I’m a Masters student at California State University East Bay pursuing Computer Science and interested in Software Development Engineering and Technical Program Management Roles.
 - 🌱 I am a problem solver and actively looking for opportunities to contribute my skills towards the development of technologies that utilize data to enhance the quality of life.
 - 💞️ I’m looking to collaborate on real time projects involving Data Engineering
 
 - My Skills and Interests
-- Skills:Java | Python | C | MySQL | HTML 5 |Javascript | JSON| Hadoop | AWS | Hive | YARN | Kafka | Flume | Zookeeper | Spark | HBase | Cassandra | Cloudera | Scala | Agile Methodologies | Scrum Framework
+
+- Skills: C, C++, Python, Java, Scala, SQL, Apache Spark, Hive, Kafka, Hadoop, HBase, HDFS, YARN, CI/CD, Cloudera, Databricks, JavaScript, CSS, DOM, HTML, SOA, Balsamiq, AWS, Data Structures and Algorithms, Systems Design- Low Level & High Level, Agile Methodologies, QA, Scrum Framework, Design Thinking, Critical Thinking, Problem-Solving, Strategic Planning, Jira, Confluence, ERP, Effective Communication, Analytical skills.
+
 - Tools and Frameworks: GIT | JIRA | Jupyter | Tableau | Salesforce CRM | Trello.
 
 - Certifications & Training:
