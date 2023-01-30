@@ -17,7 +17,7 @@
 - Cisco Cyber Ops Associate
 - Google Project Management: Professional Certificate
 
-- 📫 You can reach me at bhanureddychada@icloud.com
+- 📫 You can reach me at bhanureddychada@icloud.com | bchada@horizon.csueastbay.edu
 - Linkedin :- www.linkedin.com/in/bhanu-reddy-chada
 
 <!---
