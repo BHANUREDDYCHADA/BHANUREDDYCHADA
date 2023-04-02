@@ -2,7 +2,7 @@
 - 👀 I’m a Masters student at California State University East Bay pursuing Computer Science and interested in Software Development Engineering and Data Engineering Roles.
 - 🌱 I am a problem solver and actively looking for opportunities to contribute my skills towards the development of technologies that utilize data to enhance the quality of life.
 - 💞️ I’m looking to contribute to open source community and collaborate on real time projects involving Data Engineering.
-- I have good exposure on different BigData frameworks (Hadoop, Spark, Hive, Sqoop, Flume, Flink, Kafka, Docker), Databases (MySQL, HBase, Cassandra, Redshift, Elastic Search), AWS Services (S3, Lambda, EMR, Glue, Cloudwatch, Redshift, SNS, SQS, Athena, Appflow), Dashboarding Tools (Grafana, Kibana, QuickSight, DataDog, Data Studio), Monitoring Tools (Airflow,Oozie), Web Development (HTML, CSS, Django, Rest API, JavaScript, JQuery), Good command over programming languages (Python, Java, Scala, Shell Scripting) and strong Data Structures & Algorithm fundamentals.
+- I have good exposure on different BigData frameworks (Hadoop, Spark, Hive, Sqoop, Kafka, Docker), Databases (MySQL, HBase, Cassandra, Redshift, Elastic Search), AWS Services (S3, Lambda, EMR, Glue, Cloudwatch, Redshift, SNS, SQS, Athena, Appflow),Monitoring Tools (Airflow,Oozie), Web Development (HTML, CSS, Django, Rest API, JavaScript, JQuery), Good command over programming languages (Python, Java, Scala, Shell Scripting) and strong Data Structures & Algorithm fundamentals.
 - I love to solve data mysteries for different domains and design scalable & optimized data pipelines to handle PetaBytes of data, with Batch & Real Time frequency.
 
 - My Skills and Interests
