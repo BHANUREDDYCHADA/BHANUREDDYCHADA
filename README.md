@@ -7,7 +7,7 @@
 
 - My Skills and Interests
 
-- Skills: Python, Java, Scala, SQL, Apache Spark, Hive, Kafka, Hadoop, HBase,MongoDB, Cassandra HDFS, YARN, CI/CD, Cloudera, Databricks, AIOPS Docker,Kubernetes JavaScript, CSS, DOM, HTML, SOA, Balsamiq, AWS, Data Structures and Algorithms, Systems Design- Low Level & High Level, Agile Methodologies, QA, Scrum Framework, Design Thinking, Critical Thinking, Problem-Solving, Strategic Planning, Jira, Confluence, Effective Communication, Analytical skills.
+- Skills: Python, Scala, SQL, Apache Spark, Hive, Kafka, Hadoop, HBase,MongoDB, Cassandra HDFS, YARN, CI/CD, Cloudera, Databricks, AIOPS Docker,Kubernetes JavaScript, CSS, DOM, HTML, SOA, Balsamiq, AWS, Data Structures and Algorithms, Systems Design- Low Level & High Level, Agile Methodologies, QA, Scrum Framework, Design Thinking, Critical Thinking, Problem-Solving, Strategic Planning, Jira, Confluence, Effective Communication, Analytical skills.
 
 - Tools and Frameworks: GIT | JIRA | Jupyter | Tableau
 
