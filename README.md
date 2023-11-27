@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BHANUREDDYCHADA
-- 👀 I’m a Masters student at California State University East Bay pursuing Computer Science and interested in Software Development Engineering and Data Engineering Roles.
+- 👀 I’m a Masters student at California State University East Bay pursuing Computer Science and Software Engineer @CAT.
 - 🌱 I am a problem solver and actively looking for opportunities to contribute my skills towards the development of technologies that utilize data to enhance the quality of life.
 - 💞️ I’m looking to contribute to open source community and collaborate on real time projects involving Data Engineering.
 - I have good exposure on different BigData frameworks (Hadoop, Spark, Hive, Sqoop, Kafka, Docker), Databases (MySQL, HBase, Cassandra, Redshift, Elastic Search), AWS Services (S3, Lambda, EMR, Glue, Cloudwatch, Redshift, SNS, SQS, Athena, Appflow),Monitoring Tools (Airflow,Oozie), Web Development (HTML, CSS, Django, Rest API, JavaScript,NodeJS), Good command over programming languages (Python,Scala, Shell Scripting) and strong Data Structures & Algorithm fundamentals.
@@ -7,7 +7,7 @@
 
 - My Skills and Interests
 
-- Skills: Python, Scala, SQL, Apache Spark, Hive, Kafka, Hadoop, HBase,MongoDB, Cassandra HDFS, YARN, CI/CD, Cloudera, Databricks, AIOPS Docker,Kubernetes JavaScript, CSS, DOM, HTML, SOA, Balsamiq, AWS, Data Structures and Algorithms, Systems Design- Low Level & High Level, Agile Methodologies, QA, Scrum Framework, Design Thinking, Critical Thinking, Problem-Solving, Strategic Planning, Jira, Confluence, Effective Communication, Analytical skills.
+- Skills: Python, Genrerative AI,ML,NLP, SQL, Apache Spark, Hive, Kafka, Hadoop, HBase,MongoDB, Cassandra HDFS, YARN, CI/CD, Cloudera, Databricks, AIOPS Docker,Kubernetes JavaScript, CSS, DOM, HTML, SOA, Balsamiq, AWS, Data Structures and Algorithms, Systems Design- Low Level & High Level, Agile Methodologies, QA, Scrum Framework, Design Thinking, Critical Thinking, Problem-Solving, Strategic Planning, Jira, Confluence, Effective Communication, Analytical skills.
 
 - Tools and Frameworks: GIT | JIRA | Jupyter | Tableau
 
