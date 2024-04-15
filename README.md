@@ -1,8 +1,8 @@
-- 👋 Hi, " Welcome to my World 😀 "  I’m @BHANUREDDYCHADA
+- 👋 Hello World, I’m @BHANUREDDYCHADA.
 - 👀 Software Engineer - Emerging Technologies @CAT.
-- 🌱 Pretty busy these days transforming my cool MVP from AI Agents to Agential framework and Human in the loop to Human above the loop . ( Curious ?🧐 HMU )
+- 🌱 Pretty busy these days transforming my cool MVP from AI Agents to Agential framework and Human in the loop to keep  Human above the loop . ( Curious ?🧐 HMU )
 - 💞️ Looking to contribute to open source community and collaborate on real time projects involving Generative AI /  ML and Data Engineering.
-- Good exposure on different Big Data frameworks (Hadoop, Spark, Hive, Sqoop, Kafka, Docker), Databases (MySQL, HBase, Cassandra, Redshift, Elastic Search), AWS Services (S3, Lambda, EMR, Glue, Cloudwatch, Redshift, SNS, SQS, Athena, Appflow),Monitoring Tools (Airflow,Oozie), Web Development (HTML, CSS, Django, Rest API, JavaScript,NodeJS), Good command over programming languages (Python,Scala, Shell Scripting) and strong Data Structures & Algorithm fundamentals.
+- Gained good exposure on different Big Data frameworks (Hadoop, Spark, Hive, Sqoop, Kafka, Docker), Databases (MySQL, HBase, Cassandra, Redshift, Elastic Search), AWS Services (S3, Lambda, EMR, Glue, Cloudwatch, Redshift, SNS, SQS, Athena, Appflow),Monitoring Tools (Airflow,Oozie), Web Development (HTML, CSS, Django, Rest API, JavaScript,NodeJS), Good command over programming languages (Python,Scala, Shell Scripting) and strong Data Structures & Algorithm fundamentals.
 - I love to solve data mysteries for different domains and design scalable & optimized data pipelines to handle PetaBytes of data, with Batch & Real Time frequency.
 - My Skills and Interests
 
