@@ -1,5 +1,5 @@
 - 👋 Hello World, I’m @BHANUREDDYCHADA.
-- 👀 Software Engineer @CAT
+- 👀 Passionate Software Engineer and entrepreneur, creating innovative solutions with emerging technologies to drive social impact.
 - 📫 You can reach me at bhanureddychada@icloud.com
 - Linkedin :- www.linkedin.com/in/bhanu-reddy-chada
 
