@@ -1,1 +1,1 @@
-ai engineer | founder | crafting memories with @memvai
+accidental ai engineer | founder 
