@@ -1,1 +1,1 @@
-accidental ai engineer | founder 
+I am who I am
